@@ -125,7 +125,6 @@ r.ProgSave(r"""C:/Users/Sudharshna/Documents/RoboDK""",r"""Prog1""",True,r"""E:/
 ![output](./1i.png)
 ![out](2.png)
 ![out](./3.png)
-![out](./1.png)
 
 ## Result
 An environment for welding operation using robodk is Designed & simulated.
